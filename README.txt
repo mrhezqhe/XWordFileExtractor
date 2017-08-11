@@ -1,0 +1,1 @@
+Some utilities to parsing Bahasa Indonesia in word to TXT File.
